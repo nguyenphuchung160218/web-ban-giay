@@ -30,6 +30,7 @@
         echo "<script>alert(' Mời bạn nhập vào ô tìm kiếm'); location.href('index.php');</script>";
     }
     $path=$_SERVER['SCRIPT_NAME'];
+    $a="test git";
 ?>
 
 
